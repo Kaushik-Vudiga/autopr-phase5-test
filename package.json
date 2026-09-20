@@ -1,0 +1,12 @@
+{
+  "name": "autopr-phase5-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small Node.js repository for validating AutoPR repository discovery.",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
